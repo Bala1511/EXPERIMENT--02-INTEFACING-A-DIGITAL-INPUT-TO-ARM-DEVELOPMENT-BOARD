@@ -1,4 +1,4 @@
-```
+
 NAME : BALAMURUGAN P
 REG NO:212222230017
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
@@ -53,7 +53,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
-```
+
 #include "main.h"
 
 
