@@ -58,7 +58,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 <img src="https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png"  width="450" height="450">
 12. connect the  ARM board to power supply and usb 
 
-<img src="https://github.com/Bala1511/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118680410/8a3a30f6-ae08-46f3-9916-0ade76411e52"  width="450" height="450">
 
 
 ## STM 32 CUBE PROGRAM :
